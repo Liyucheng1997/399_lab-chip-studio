@@ -4,6 +4,7 @@
 
 ## 打开方式
 
+- 在线体验：https://liyucheng1997.github.io/399_lab-chip-studio/
 - 直接双击 `index.html` 用浏览器打开即可，不需要安装任何东西。
 - 或者在项目目录运行 `python -m http.server 8399`，再访问 http://localhost:8399 。
 
